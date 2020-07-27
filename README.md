@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![nokazn's github stats](https://github-readme-stats.vercel.app/api?username=nokazn&count_private=true&show_icons=true&theme=dark)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nokazn&repo=spotify-player&show_owner=true)](https://github.com/nokazn/spotify-player)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nokazn&layout=compact)]
