@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![nokazn's github stats](https://github-readme-stats.vercel.app/api?username=nokazn&count_private=true&show_icons=true&theme=dark)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nokazn&repo=spotify-player&theme=dark&show_owner=true)](https://github.com/nokazn/spotify-player)
