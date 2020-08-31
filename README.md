@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![nokazn's github stats](https://github-readme-stats.vercel.app/api?username=nokazn&count_private=true&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nokazn&layout=compact&theme=dracula)](https://github.com/nokazn)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nokazn&layout=compact&theme=dracula)
