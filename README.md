@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=nokazn)
 
-[![](https://raw.githubusercontent.com/nokazn/nokazn/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/nokazn/nokazn/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/nokazn/nokazn/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-[![](https://raw.githubusercontent.com/nokazn/nokazn/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nokazn/nokazn/master/profile-summary-card-output/nord_dark/0-profile-details.svg"><br/>
+  <img src="https://raw.githubusercontent.com/nokazn/nokazn/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/nokazn/nokazn/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg"><br/>
+  <img src="https://raw.githubusercontent.com/nokazn/nokazn/master/profile-summary-card-output/nord_dark/3-stats.svg">
+  <img src="https://raw.githubusercontent.com/nokazn/nokazn/master/profile-summary-card-output/nord_dark/4-productive-time.svg">
+</p>
+<br/>
