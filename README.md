@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=nokazn)
 
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/nokazn/nokazn/master/profile-summary-card-output/nord_dark/0-profile-details.svg"><br/>
   <img src="https://raw.githubusercontent.com/nokazn/nokazn/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg">
