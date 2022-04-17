@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/nokazn/nokazn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation"><br/>
   <img src="https://raw.githubusercontent.com/nokazn/nokazn/master/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile details"><br/>
   <img src="https://raw.githubusercontent.com/nokazn/nokazn/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Top languages by repository">
   <img src="https://raw.githubusercontent.com/nokazn/nokazn/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Top languages by commit"><br/>
