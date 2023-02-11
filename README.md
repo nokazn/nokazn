@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nokazn)
 
-<img src="https://raw.githubusercontent.com/nokazn/nokazn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation"><br/>
+<img src="https://raw.githubusercontent.com/nokazn/nokazn/output/github-snake-dark.svg" alt="github contribution grid snake animation"><br/>
 
 <img src="https://raw.githubusercontent.com/nokazn/nokazn/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details"><br/>
 <img src="https://raw.githubusercontent.com/nokazn/nokazn/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repository">
