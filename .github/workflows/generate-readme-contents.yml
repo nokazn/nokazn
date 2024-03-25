@@ -1,15 +1,11 @@
-
 name: generate-readme-contents
-
 on:
   schedule: # execute every 24 hours
     - cron: "* */24 * * *"
   workflow_dispatch:
-
 jobs:
   build-profile-summary-card:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -17,11 +13,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-
   generate-snake-animation:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
       - uses: Platane/snk@v3
         with:
@@ -29,7 +23,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3
