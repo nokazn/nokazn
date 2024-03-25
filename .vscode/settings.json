@@ -1,7 +1,7 @@
 {
   "[nix]": {
     "editor.defaultFormatter": "B4dM4n.nixpkgs-fmt",
-    "editor.formatOnSave": false
+    "editor.formatOnSave": true
   },
   "[json][jsonc][markdown][toml]": {
     "editor.defaultFormatter": "dprint.dprint",
